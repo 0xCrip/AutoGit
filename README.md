@@ -5,7 +5,8 @@ Must be used alongside either:
   1. Windows --> Task Scheduler
   2. Linux --> Cron
 
-Batch Script example for Windows
+Batch Script example for Windows:
+
 RunPythonScript.bat
 ```
 @echo off
